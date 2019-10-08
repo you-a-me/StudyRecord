@@ -1,10 +1,9 @@
 ---
 layout: list
 title: Deep Learning
-menu: true
 slug: deeplearning
-order: 3
+menu: true
+order: 4
 description: >
-  Paper Review
+  Deep Learning Paper Review
 ---
-
