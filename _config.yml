@@ -26,12 +26,8 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
 author:
-  picture:     /assets/img/me.jpg
   name:        Hyein Nam
   email:       skgpdls44@gmail.com
-  about:
-  	Hi, I'm Hye In Nam.
-	  I'm a student studying Deep Learning. I'll post what I have studied on this blog.
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
