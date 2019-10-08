@@ -2,7 +2,7 @@
 layout: list
 title: Probability and Statistics
 menu: true
-slug: PS
+slug: probstat
 order: 1
 description: >
   All knowledge is, in the final analysis, history.<br>

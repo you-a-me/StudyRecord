@@ -2,7 +2,7 @@
 layout: list
 title: Deep Learning
 menu: true
-slug: DL
+slug: deeplearning
 order: 3
 description: >
   Paper Review
