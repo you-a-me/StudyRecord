@@ -1,6 +1,6 @@
 remote_theme: hydecorp/hydejack
-url: 'http://namhyein.github.io'
-baseurl: 'StudyRecord'
+url: http://namhyein.github.io
+baseurl: /StudyRecord
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
