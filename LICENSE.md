@@ -1,7 +1,3 @@
----
-layout: page
-title: LICENSE
----
 
 ## GNU GENERAL PUBLIC LICENSE
 

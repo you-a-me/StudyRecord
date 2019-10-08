@@ -1,10 +1,10 @@
----
+<!-- ---
 layout: page
 title: Scripts
 description: >
   There are two ways of adding third party scripts.
   'Embedding' is ideal for one-off scripts, while 'global scripts' loaded on every page.
----
+--- -->
 
 There are two ways of adding third party scripts.
 [Embedding](#embedding) is ideal for one-off scripts, e.g. `widgets.js` that is part of embedded tweets (see below).

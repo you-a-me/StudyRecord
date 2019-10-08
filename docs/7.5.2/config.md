@@ -1,9 +1,9 @@
----
+<!-- ---
 layout: page
 title: Config
 description: >
   Once Jekyll is running, you can start with basic configuration by adding various entries to `_config.yml`.
----
+--- -->
 
 Once Jekyll is running, you can start with basic configuration by adding various entries to `_config.yml`.
 Besides these descriptions, you can also read the [annotated config file](#annotated-config-file) below.

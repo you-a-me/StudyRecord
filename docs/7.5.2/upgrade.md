@@ -1,9 +1,9 @@
----
+<!-- ---
 layout: page
 title: Upgrade
 description: >
   This documents how to upgrade Hydejack to a newer version. The method depends on how you've installed Hydejack.
----
+--- -->
 
 ## Table of Contents
 {:.no_toc}

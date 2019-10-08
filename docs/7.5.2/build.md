@@ -1,9 +1,9 @@
----
+<!-- ---
 layout: page
 title: Build
 description: >
   On how to prepare your Hydejack site for a production build and deployment.
----
+--- -->
 
 ## Table of Contents
 {:.no_toc}

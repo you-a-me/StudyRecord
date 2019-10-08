@@ -1,7 +1,3 @@
----
-layout: page
-title: PRO License
----
 
 ## License Summary
 * License concerns use of [Hydejack PRO][1]
